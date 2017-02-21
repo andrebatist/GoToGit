@@ -8,7 +8,7 @@ public class Main {
     static List<Object> pyle =new LinkedList<>();
     public static void main(String[] args) {
         System.out.println("To GitHub!");
-        //int a=1;//
+        //int a=1;//gg
         System.out.println("Branch 1"); //fff
         while (true) {
            // switch(pyle.get(a)) {
